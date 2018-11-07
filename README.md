@@ -6,6 +6,8 @@ Given a project plan as directed graph $ G = (V,E) $ with activities $ V $, time
 
 Formulate the optimization model of the Generic Time Scheduling Problem
 
+![Alt text](img/GTSP.png?raw=true "GTSP formulation")
+
 
 ## Case Study 2: Resource-Constrained Project Scheduling Problem (RCPSP) with Pulse Variables
 
