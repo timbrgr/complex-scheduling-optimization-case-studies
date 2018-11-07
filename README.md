@@ -8,6 +8,9 @@ Formulate the optimization model of the Generic Time Scheduling Problem
 
 ![Alt text](img/GTSP.PNG?raw=true "GTSP formulation")
 
+with the objective function to minimize the sum of the (unweighted) starting time (_WST objective function_):
+
+$$ f(S) = \sum_{i \in V} S_i $$
 
 ## Case Study 2: Resource-Constrained Project Scheduling Problem (RCPSP) with Pulse Variables
 
